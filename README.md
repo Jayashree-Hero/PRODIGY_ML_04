@@ -5,13 +5,9 @@ This project implements a hand gesture recognition system using a deep learning 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Usage](#usage)
 - [Dataset](#dataset)
 - [Preprocessing](#preprocessing)
 - [Training](#training)
-- [Evaluation](#evaluation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
